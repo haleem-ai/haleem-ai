@@ -118,10 +118,10 @@ My goal is to build strong foundations, understand the underlying principles beh
 
 ## 🌐 Connect With Me
 
-- 💼 LinkedIn: YOUR_LINKEDIN_URL
-- ▶️ YouTube: YOUR_YOUTUBE_URL
-- 📸 Instagram: YOUR_INSTAGRAM_URL
-- 🎵 TikTok: YOUR_TIKTOK_URL
+- 💼 LinkedIn: [YOUR_LINKEDIN_URL](https://www.linkedin.com/in/abdelhaleem-abushawish-21573242a/)
+- ▶️ YouTube: [YOUR_YOUTUBE_URL](https://www.youtube.com/@haleem_ai)
+- 📸 Instagram: [YOUR_INSTAGRAM_URL](https://www.instagram.com/_haleem.ai_/)
+- 🎵 TikTok: [YOUR_TIKTOK_URL](https://www.tiktok.com/@_haleem.ai_?lang=en)
 
 ---
 
